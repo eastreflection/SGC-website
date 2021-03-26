@@ -1,4 +1,3 @@
 # SGC-website
 
-Just a website to practice for begginers in web development.
-Anyone can contribute   :-)
+Just to make the Website with whatever webdev knowledge I have and will have in the future.
